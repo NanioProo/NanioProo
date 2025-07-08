@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NanioProo
 - 👀 I’m interested in osu, coding(css,java-script,html,py)
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning cybersecurity
 
 <!---
 NanioProo/NanioProo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
