@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NanioProo
-- 👀 I’m interested in osu, coding(css,java-script,html,py)
+- 👀 I’m interested in osu, coding(c++,css,java-script,html,py)
 - 🌱 I’m currently learning cybersecurity
 
 <!---
